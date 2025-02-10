@@ -33,7 +33,7 @@ I'm a Computer Science Student from Venezuela 🇻🇪🇨🇳. I love learning 
 
 
 ## 📂 My CV
-- [View My CV]([https://drive.google.com/file/d/1BbVBiZRicChdgyaCb_waE4GHpE-t4L0Z/view?usp=sharing](https://drive.google.com/file/d/1l9pjFA332SxZv7SB_WV7l5VkURwTU6RC/view?usp=sharing)) - Click here to see my full CV.
+- [View My CV]([https://drive.google.com/file/d/1BbVBiZRicChdgyaCb_waE4GHpE-t4L0Z/view?usp=sharing](https://drive.google.com/file/d/1l9pjFA332SxZv7SB_WV7l5VkURwTU6RC/view?usp=sharing) - Click here to see my full CV.
 
 ## 📫 How to Reach Me:
 - <a href="mailto:svelasquez2214@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
