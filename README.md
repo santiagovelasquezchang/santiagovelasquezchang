@@ -11,6 +11,9 @@ I'm a Computer Science Student from Venezuela 🇻🇪🇨🇳. I love learning 
 - ⚽️ Football Fan
 - 🏊🏻‍♂️ Former Swimming National Champion
 
+## 📂 My CV
+- [View My CV](https://drive.google.com/file/d/1l9pjFA332SxZv7SB_WV7l5VkURwTU6RC/view?usp=sharing) - Click here to see my full CV.
+
 ## 🚀 Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -31,9 +34,6 @@ I'm a Computer Science Student from Venezuela 🇻🇪🇨🇳. I love learning 
 
 ![santiagovelasquezchang](https://github-readme-stats.vercel.app/api?username=santiagovelasquezchang&show_icons=true&theme=radical)
 
-
-## 📂 My CV
-- [View My CV](https://drive.google.com/file/d/1l9pjFA332SxZv7SB_WV7l5VkURwTU6RC/view?usp=sharing) - Click here to see my full CV.
 
 ## 📫 How to Reach Me:
 - <a href="mailto:svelasquez2214@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
