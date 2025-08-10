@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 I'm a Computer Science Student from Venezuela 🇻🇪🇨🇳. I love learning new skills.
 
-- 🔭 I’m currently working on 🤫
+- 🔭 I’m currently working at Amazon Web Services�
 - 🌱 I’m currently improving my skills in C++
 - ⚽️ Football Fan
 - 🏊🏻‍♂️ Former Swimming National Champion
